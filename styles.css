@@ -1,0 +1,48 @@
+
+#navbar {
+    font-family: "Rubik";
+    font-size: 1rem;
+    line-height: 1.5;
+    font-weight: 500;
+}
+
+.body{
+    padding: 3% 10% 20%;
+
+}
+
+
+.heading {
+    font-family: "Ubuntu";
+    font-size: 3rem;
+    line-height: 1.4;
+    font-weight: 900;
+}
+
+.header_line{
+   border-top: 10px solid #3C84AB;
+   border-radius: 10px;
+}
+
+hr{
+    border-top: 5px solid #85CDFD;
+    border-radius: 5px;
+    width: 50%;
+    margin-left: 0;
+}
+p {
+    font-family: "Rubik";
+    font-weight: 200;
+}
+
+h4 {
+    font-family: "Rubik";
+    font-weight: 600
+}
+
+h5 {
+    font-family: "Rubik";
+    font-weight: 500
+}
+
+
